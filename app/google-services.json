@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415295889179",
+    "firebase_url": "https://solutionsol-47029.firebaseio.com",
+    "project_id": "solutionsol-47029",
+    "storage_bucket": "solutionsol-47029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415295889179:android:ee50e3e20a621c7c1bfdbe",
+        "android_client_info": {
+          "package_name": "com.lionuncle.solutionsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415295889179-a1pns1uif4qo1cuikqlo97olbv05uik5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lionuncle.solutionsol",
+            "certificate_hash": "1d4c35057290e85c8826903de0e68609affbe5e0"
+          }
+        },
+        {
+          "client_id": "415295889179-bsoc9nmn0lm89guvpn0vtgjige7s56r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0-aMSLQU_vCqWMaWwAZHIowdM1c-sK_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415295889179-bsoc9nmn0lm89guvpn0vtgjige7s56r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
